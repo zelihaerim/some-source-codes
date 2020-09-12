@@ -1,5 +1,5 @@
 # some-source-codes
-If you want to acces these repositories please send me email. </br>
+If you want to access these repositories please send me email. </br>
 ->Hibernate Demo </br>
 ->Spring IOC Annotation </br>
 ->Spring Introduction </br>
